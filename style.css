@@ -1,0 +1,9 @@
+body {
+    padding-top: 50px;
+}
+.box {
+    width: 200px;
+    height: 200px;
+    background-color: brown;
+    margin: 0 auto;
+}
